@@ -1,4 +1,4 @@
-###thredds.glos.us
+###process1.glos.us
 
 ####Fact:
 - ***Server Type***: Virtual Machine
