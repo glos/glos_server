@@ -22,6 +22,10 @@
   Data processing server: process1.glos.us
   
   sci-wms server: wms.glos.us
+
+  HABS portal: habs.glos.us
+
+  ERDDAP: wms.glos.us	
   
   GLATOS server (not production): web1.glos.us
 
